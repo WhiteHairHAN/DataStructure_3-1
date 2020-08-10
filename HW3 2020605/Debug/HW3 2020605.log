@@ -1,0 +1,14 @@
+﻿  2016037069 한재윤 자료구조 HW_3.c
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(55,10): warning C4033: 'Search'은(는) 값을 반환해야 합니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(124,17): warning C4013: 'LEVEL'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(125,28): warning C4013: 'RIGHT_CHILD_move_PARENTS'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(132,27): warning C4013: 'LEFT_CHILD_move_PARENTS'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(226,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(245,1): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(45): warning C4715: 'Insert': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(100): warning C4715: 'Search': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(170): warning C4715: 'Delete': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(217): warning C4715: 'LEVEL': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(256): warning C4716: 'LEFT_CHILD_move_PARENTS': 값을 반환해야 합니다.
+C:\Users\dkxmp\Documents\C language\HW3 2020605\2016037069 한재윤 자료구조 HW_3.c(237): warning C4716: 'RIGHT_CHILD_move_PARENTS': 값을 반환해야 합니다.
+  HW3 2020605.vcxproj -> C:\Users\dkxmp\Documents\C language\HW3 2020605\Debug\HW3 2020605.exe
